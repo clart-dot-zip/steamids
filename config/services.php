@@ -41,6 +41,7 @@ return [
         'redirect' => env('STEAM_REDIRECT_URI'),
         'allowed_hosts' => [
             'steamid.test',
+            'steamid.clart.zip'
         ]
     ],
 
